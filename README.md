@@ -1,16 +1,18 @@
-# coffee_shop_website_design
+# Responsive Coffee Shop Website
 
-Responsive Coffee Shop Website
+<video src="https://user-images.githubusercontent.com/57848633/136071615-dec2c90e-9d33-4aea-a407-38146b5ea8c6.mp4" autoplay>
+</video>
 
-## Getting Started
+# Technologies and Features
 
-This project is a starting point for a Flutter application.
+* Flutter
+* Flutter Modular
+* Mobx
+* Flutter Maps
+* Responsive for web and mobile and tablet
+* Multi-language system
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Designer And images by: Mr.WebDesigner https://www.youtube.com/channel/UCKwgH3vASrD2brd1l2m6NHw
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Programming by: Richardson Tsavo
